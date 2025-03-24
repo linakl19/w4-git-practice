@@ -1,6 +1,8 @@
 # Taken From
 # Iterating Over Data
 # Problem-Set While Loops #11
+
+#Just some comment
 def silly_sum():
     """ reads numbers from the user
         summing as we go until either
